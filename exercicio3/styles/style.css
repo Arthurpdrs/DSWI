@@ -1,0 +1,19 @@
+body{
+    background-color:lavenderblush;
+}
+nav a{
+    background-color:lavenderblush;
+    font-size:20px;
+    text-decoration:underline;
+    margin:0%;
+    padding-left: 20px;
+    padding-right: 20px;
+    color:black;
+    border-radius:0px; 
+}
+footer{
+    font-family:'arial';
+    font-weight:100;  
+    font-style:italic;
+    font-size: 12px;
+}
